@@ -1,0 +1,10 @@
+
+### `.gitignore`
+
+```gitignore
+.env
+.venv/
+__pycache__/
+*.py[cod]
+creatorflow.db
+workflows/*.json
